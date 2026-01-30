@@ -1,7 +1,7 @@
 # Hi, I'm Jindo Kim
 
-- We're in an era where anyone can learn technologies if they want to. So I don't differentiate myself by what I can build.<br>
-- I focus on what problems I solved, what value I delivered, and how I approached them.
+> We're in an era where anyone can learn technologies if they want to. So I don't differentiate myself by what I can build.<br>
+> I focus on what problems I solved, what value I delivered, and how I approached them.
 
 ## Portfolio
 
