@@ -58,10 +58,10 @@
 ## Projects
 
 ### [Self-Binnacle](https://github.com/JindoKimKor/Self-Binnacle)
-AI-integrated personal life management framework built on nautical philosophy. Integrates PARA method and Metacognition cycle for systematic self-management.
+- AI-integrated personal life management framework built on nautical philosophy. Integrates PARA method and Metacognition cycle for systematic self-management.
 
 ### Unity CI Enabler *(In Progress)*
-Open-source tool democratizing VARLab's serverless build/test environment for Unity developers. Packaging the 94.88% cost reduction architecture as plug-and-play solution requiring no DevOps or cloud knowledge.
+- Open-source tool democratizing VARLab's serverless build/test environment for Unity developers. Packaging the 94.88% cost reduction architecture as plug-and-play solution requiring no DevOps or cloud knowledge.
 
 **Tech Stack:** Azure Batch, Terraform, Docker, Unity
 
