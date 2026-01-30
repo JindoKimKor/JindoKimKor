@@ -1,7 +1,6 @@
 # Hi, I'm Jindo Kim
 
-> We're in an era where anyone can learn technologies if they want to. So I don't differentiate myself by what I can build.<br>
-> I focus on what problems I solved, what value I delivered, and how I approached them.
+We're in an era where anyone can learn technologies if they want to. So I focus on what problems I solved and what value I delivered.
 
 ## Portfolio
 
@@ -61,9 +60,10 @@
 - AI-integrated personal life management framework built on nautical philosophy. Integrates PARA method and Metacognition cycle for systematic self-management.
 
 ### Unity CI Enabler *(In Progress)*
-- Open-source tool democratizing VARLab's serverless build/test environment for Unity developers. Packaging the 94.88% cost reduction architecture as plug-and-play solution requiring no DevOps or cloud knowledge.
+- Source-available tool (like open-source, but with some restrictions) democratizing VARLab's serverless build/test environment for Unity developers. Packaging the 94.88% cost reduction architecture as plug-and-play solution requiring no DevOps or cloud knowledge.
 
-**Tech Stack:** Azure Batch, Terraform, Docker, Unity
+- **Tech Stack:** Terraform, Node.js, Docker, GitHub Actions, noVNC
+- **Cloud:** Azure (AWS, GCP planned)
 
 ## Connect
 
