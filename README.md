@@ -4,7 +4,7 @@ We're in an era where anyone can learn technologies if they want to. So I don't 
 
 ## Portfolio
 
-**94.88% CI/CD Infrastructure Cost Reduction**
+### **94.88% CI/CD Infrastructure Cost Reduction**
 > <details>
 > <summary>View details</summary>
 >
@@ -17,7 +17,7 @@ We're in an era where anyone can learn technologies if they want to. So I don't 
 >
 > </details>
 
-**Retrospective Analysis: From 5 Monolithic Pipelines to 4-Layer Architecture**
+### **Retrospective Analysis: From 5 Monolithic Pipelines to 4-Layer Architecture**
 > <details>
 > <summary>View details</summary>
 >
@@ -29,7 +29,7 @@ We're in an era where anyone can learn technologies if they want to. So I don't 
 >
 > </details>
 
-**Led Team's First Successful SDLC**
+### **Led Team's First Successful SDLC**
 > <details>
 > <summary>View details</summary>
 >
@@ -41,7 +41,7 @@ We're in an era where anyone can learn technologies if they want to. So I don't 
 >
 > </details>
 
-**Stabilized Crashed Unity Build Server**
+### **Stabilized Crashed Unity Build Server**
 > <details>
 > <summary>View details</summary>
 >
