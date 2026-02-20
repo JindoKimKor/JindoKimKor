@@ -4,7 +4,7 @@ We're in an era where anyone can learn technologies if they want to. So I don't 
 
 ## Portfolio
 
-> **94.88% CI/CD Infrastructure Cost Reduction**
+**94.88% CI/CD Infrastructure Cost Reduction**
 > <details>
 > <summary>View details</summary>
 >
@@ -13,11 +13,11 @@ We're in an era where anyone can learn technologies if they want to. So I don't 
 > - **Solution:** Azure Batch + Spot VMs for on-demand execution
 > - **Result:** 94.88% cost reduction ($618 → $32 for 56 days)
 > - **Keywords:** Azure Batch, Spot VMs, Docker, Unity, Cost Optimization
-> - [Documentation](https://github.com/JindoKimKor/Self-Binnacle/blob/main/Voyages/Projects/VARLab-work-transfer/portfolios/devops-jenkins-linux/94.88-percent-cost-reduction/README.md)
+> - [Documentation](https://jindokimkor.github.io/Self-Binnacle/cicd-cost-optimization/)
 >
 > </details>
 
-> **Retrospective Analysis: From 5 Monolithic Pipelines to 4-Layer Architecture**
+**Retrospective Analysis: From 5 Monolithic Pipelines to 4-Layer Architecture**
 > <details>
 > <summary>View details</summary>
 >
@@ -29,7 +29,7 @@ We're in an era where anyone can learn technologies if they want to. So I don't 
 >
 > </details>
 
-> **Led Team's First Successful SDLC**
+**Led Team's First Successful SDLC**
 > <details>
 > <summary>View details</summary>
 >
@@ -37,11 +37,11 @@ We're in an era where anyone can learn technologies if they want to. So I don't 
 > - **Problem:** No requirements-to-code workflow, isolated dev environment, no CI/CD feedback loop
 > - **Solution:** Unified Feature Specification for cross-functional workflow, GitHub Ruleset + AWS CodePipeline for code-to-staging infrastructure
 > - **Keywords:** SDLC, Feature Specification, GitHub Ruleset, AWS IAM, CodePipeline, Django
-> - [Documentation](https://github.com/JindoKimKor/Self-Binnacle/blob/main/Voyages/Projects/Helprr.ai/README.md)
+> - [Documentation](https://jindokimkor.github.io/Self-Binnacle/helprr-sdlc/)
 >
 > </details>
 
-> **Stabilized Crashed Unity Build Server**
+**Stabilized Crashed Unity Build Server**
 > <details>
 > <summary>View details</summary>
 >
@@ -50,7 +50,7 @@ We're in an era where anyone can learn technologies if they want to. So I don't 
 > - **Solution:** Trade-off approach - shared project files + optimization skip
 > - **Result:** Server stabilized, concurrent pipelines supported
 > - **Byproduct:** 80% faster builds, 90% CPU reduction
-> - [Documentation](https://github.com/JindoKimKor/Self-Binnacle/blob/main/Voyages/Projects/VARLab-work-transfer/portfolios/devops-jenkins-windows/stabilized-crashed-build-server/README.md)
+> - [Documentation](https://jindokimkor.github.io/Self-Binnacle/build-server-stabilization/)
 >
 > </details>
 
