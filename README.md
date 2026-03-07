@@ -62,7 +62,7 @@ We're in an era where anyone can learn technologies if they want to. So I don't 
 ### Unity CI Enabler *(In Progress)*
 - Source-available tool (like open-source, but with some restrictions) democratizing VARLab's serverless build/test environment for Unity developers. Packaging the 94.88% cost reduction architecture as plug-and-play solution requiring no DevOps or cloud knowledge.
 
-- **Tech Stack:** Terraform, Node.js, Docker, GitHub Actions, noVNC
+- **Tech Stack:** Terraform, Go, Docker, GitHub Actions, noVNC, cloud-init
 - **Cloud:** Azure (AWS, GCP planned)
 
 ## Connect
