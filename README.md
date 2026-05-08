@@ -21,7 +21,7 @@ We're in an era where anyone can learn technologies if they want to. So I don't 
 > <details>
 > <summary>View details</summary>
 >
-> - **What I did:** Transformed 5 monolithic pipelines (37% duplication) into 4-layer architecture with centralized libraries
+> - **What I did:** Transformed 5 monolithic pipelines (41% duplication) into 4-layer architecture with centralized libraries
 > - **How it emerged:** Felt the pain → organized by domain naturally → patterns emerged
 > - **Post-analysis:** Mapped my solution to industry concepts (Software Smells, DDD patterns, GoF Design Patterns)
 > - **Documentation:** Problem analysis, pattern identification, architecture rationale
