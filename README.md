@@ -4,7 +4,7 @@ We're in an era where anyone can learn technologies if they want to. I focus on 
 
 ## Portfolio
 
-### **94.88% CI/CD Cloud Cost Reduction**
+### **94.88% CI/CD Cloud Build Cost Reduction**
 > <details>
 > <summary>View details</summary>
 >
